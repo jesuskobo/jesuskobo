@@ -1,4 +1,4 @@
-![Banner](https://github.com/jesuskobo/jesuskobo/blob/main/img_banner)
+![Banner](https://github.com/jesuskobo/jesuskobo/blob/main/img_banner?raw=true)
 
 <h1 align="center">Hola, soy Jesús David Rivera Rodríguez 👋</h1>
 
