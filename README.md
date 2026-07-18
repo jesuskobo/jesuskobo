@@ -21,4 +21,4 @@ Soy un Ingeniero de Sistemas con +5 años de experiencia transformando infraestr
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuskobo&show_icons=true&theme=radical)
 
 ---
-<p align="center">📫 ¿Quieres conectar? <a href="www.linkedin.com/in/jesus-rivera-linux">LinkedIn</a></p>
+<p align="center">📫 ¿Quieres conectar? <a href="https://www.linkedin.com/in/jesus-rivera-linux">LinkedIn</a></p>
