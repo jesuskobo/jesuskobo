@@ -15,10 +15,10 @@
 Soy un Ingeniero de Sistemas con +5 años de experiencia transformando infraestructura tradicional en entornos eficientes, seguros y automatizados. Mi enfoque combina la robustez de **Linux** con la escalabilidad de **Microsoft Azure**, siempre priorizando la continuidad operativa y la seguridad mediante *hardening*.
 
 ## 🚀 Proyectos Destacados
-* **[CV-Optimizer-Pipeline](https://github.com/tu-usuario/CV-Optimizer-Pipeline):** Sistema de ingeniería de datos para la curación y optimización de perfiles profesionales. Utiliza IA local (Ollama) y algoritmos de scoring para adaptar CVs a requisitos ATS.
+* **[CV-Optimizer-Pipeline](https://github.com/jesuskobo/Cv_IA):** Sistema de ingeniería de datos para la curación y optimización de perfiles profesionales. Utiliza IA local (Ollama) y algoritmos de scoring para adaptar CVs a requisitos ATS.
 
 ## 📈 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesuskobo&show_icons=true&theme=radical)
 
 ---
-<p align="center">📫 ¿Quieres conectar? <a href="https://linkedin.com/in/jesus-rivera-6178a41a8">LinkedIn</a></p>
+<p align="center">📫 ¿Quieres conectar? <a href="www.linkedin.com/in/jesus-rivera-linux">LinkedIn</a></p>
