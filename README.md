@@ -26,7 +26,7 @@
 ## 🛠 Perfil Profesional
 Soy un Ingeniero de Sistemas con más de 5 años de experiencia, especializado en la arquitectura y administración de **infraestructura tecnológica de alta disponibilidad**. Mi trabajo se centra en reducir la complejidad operativa mediante la **automatización** y fortalecer la postura de seguridad mediante prácticas de *hardening*.
 
-> *"La tecnología no es solo código; es la arquitectura que permite que la operación nunca se detenga."*
+> *"La automatización y la infraestructura son los pilares que aseguran la resiliencia operativa en entornos de alta demanda."*
 
 ---
 
