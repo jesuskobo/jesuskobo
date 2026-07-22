@@ -23,7 +23,7 @@
 
 ---
 
-## ⚙️ CORE SKILLS
+## CORE SKILLS
 Arquitectura enfocada en la **disponibilidad extrema** y la **automatización de procesos**. Especialista en la transición de entornos legacy a arquitecturas cloud-ready mediante *Infrastructure as Code*.
 
 * **Infraestructura:** Linux (RHEL/Ubuntu/Debian), Windows Server, Virtualización.
@@ -33,7 +33,7 @@ Arquitectura enfocada en la **disponibilidad extrema** y la **automatización de
 
 ---
 
-## 🚀 PROYECTO PRINCIPAL
+## PROYECTO PRINCIPAL
 
 <table align="center">
   <tr>
